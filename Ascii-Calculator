@@ -1,0 +1,33 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+ /*
+ int a,b;
+ int sum,mult,sub;
+ double div;
+
+ //a=15;
+ //b=3;
+ printf("Enter a number: \n");
+ scanf("%d",&a);
+ printf("Enter number 2: \n");
+ scanf("%d",&b);
+
+ sum = a+b;
+ mult =a*b;
+ sub= a-b;
+ div=a/b;
+
+ printf("The sum is: %d\n", sum);
+ printf("The multiplication is: %d\n", mult);
+ printf("The subtraction is: %d\n", sub);
+ printf("The division is: %.2lf\n", div);
+*/
+ char c;
+ c=97; // converts to its ASCII value/code.
+ printf("The char is: %c\n", c);
+
+ return 0;
+}
